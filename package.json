@@ -1,0 +1,32 @@
+{
+  "name": "postcss-processor",
+  "version": "0.0.1",
+  "description": "Sugar way to create a postcss processor or get postcss plugins",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoubin/postcss-processor.git"
+  },
+  "keywords": [
+    "postcss",
+    "processor",
+    "plugin"
+  ],
+  "author": "zoubin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoubin/postcss-processor/issues"
+  },
+  "homepage": "https://github.com/zoubin/postcss-processor#readme",
+  "dependencies": {
+    "postcss": "^4.1.11",
+    "require-array": "^0.1.2",
+    "tape": "^4.0.0"
+  }
+}

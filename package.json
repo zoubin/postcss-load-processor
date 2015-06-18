@@ -1,6 +1,6 @@
 {
   "name": "postcss-processor",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Sugar way to create a postcss processor or get postcss plugins",
   "main": "index.js",
   "directories": {
